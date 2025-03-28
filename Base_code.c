@@ -1,21 +1,3 @@
-/**
- * Student Management System (SMS)
- * 
- * Description: This program is a command-line based Student Management System that allows
- * a teacher to manage up to 20 students. It provides functionalities such as adding students,
- * updating records, viewing details, calculating grades, and more. Students can also log in
- * to view their own grades and CGPA.
- * 
- * System Features:
- * - Teacher and Student user roles
- * - Add, view, update, and delete student records
- * - Calculate grades based on marks
- * - Generate reports in various formats
- * - Persistent data storage using file I/O
- * 
- * Date: 2025-03-28
- */
-
  #include <stdio.h>
  #include <stdlib.h>
  #include <string.h>
